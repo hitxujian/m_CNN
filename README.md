@@ -1,6 +1,6 @@
 # Implementation of "Multimodal Convolutional Neural Networks for Matching Image and Sentence"
-* I am not the author of the paper, and I am not sure if I implemented this right.
-* This project is still on the way.
 
 # Required Packages
 * Theano, Keras, Numpy
+# 参考文献
+*http://pangolulu.github.io/2016/10/28/deep-ir/
